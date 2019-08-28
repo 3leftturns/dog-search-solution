@@ -1,0 +1,35 @@
+[
+    {
+    "name": "Ruby",
+    "breed": [
+      "English Springer Spaniel"
+    ],
+    "isMutt": false,
+    "id": 2
+  },
+  {
+      "name": "Roscoe",
+      "breed": [
+        "Australian Shepherd",
+        "Labrador"
+      ],
+      "isMutt": true,
+      "id": 0
+    },
+    {
+      "name": "Rowdy",
+      "breed": [
+        "Labrador"
+      ],
+      "isMutt": false,
+      "id": 1
+    },
+  {
+    "name": "Daisy",
+    "breed": [
+      "St King Charles Cavalier"
+    ],
+    "isMutt": false,
+    "id": 3
+  }
+]
